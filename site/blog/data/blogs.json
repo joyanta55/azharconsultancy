@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "001",
+      "slug": "2025-01-15-welcome-to-calchvac",
+      "title": "Welcome to CalcHvac: Revolutionizing HVAC Design and Energy Modeling",
+      "date": "2025-01-15",
+      "author": "CalcHvac Team",
+      "excerpt": "Discover how CalcHvac is transforming the way architects and engineers approach HVAC design, energy modeling, and sustainable building practices through our innovative cloud-based platform.",
+      "featuredImage": "../assets/img/blog-default.jpg",
+      "categories": ["Newsletter", "Introduction"],
+      "tags": ["HVAC", "Energy Modeling", "BIM", "Sustainable Design", "ASHRAE"],
+      "readTime": "5 min read"
+    }
+  ]
+}

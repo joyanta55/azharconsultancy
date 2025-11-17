@@ -58,8 +58,17 @@ The site automatically deploys to Cloudflare Pages when:
   ├── services.html
   ├── service-details.html
   ├── starter-page.html
+  ├── blog/          ← Blog section
+  │   ├── index.html
+  │   ├── post-template.html
+  │   ├── posts/
+  │   ├── data/
+  │   │   └── blogs.json
+  │   └── assets/
   └── assets/
 ```
+
+**Note**: For managing blog posts, see [BLOG.md](BLOG.md)
 
 ## Accessing Your Site
 
