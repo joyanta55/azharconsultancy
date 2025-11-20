@@ -1,0 +1,22 @@
+PS C:\CalcWEB\calcHVAC> git config --global user.email "tousifbuet@gmail.com"
+PS C:\CalcWEB\calcHVAC>  git config --global user.name "Tousif"
+PS C:\CalcWEB\calcHVAC> git add -A
+PS C:\CalcWEB\calcHVAC> git commit -m "change by tousif"
+[master bef7674] change by tousif
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+PS C:\CalcWEB\calcHVAC> git push origin master
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 298 bytes | 99.00 KiB/s, done.
+Total 3 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+To github.com:CalcHvac/calcHVAC.git
+   bd9571b..bef7674  master -> master
+PS C:\CalcWEB\calcHVAC> git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+PS C:\CalcWEB\calcHVAC> git log
